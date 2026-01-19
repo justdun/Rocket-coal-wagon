@@ -1,6 +1,7 @@
 # Rocket-coal-wagon
 
 <img src = "./images/Coal-Wagon.png" width="50%">
+<img src = "./images/IMG_1183.jpeg" width="50%">
 
 # Rocket-coal-wagon
 This respository contains the STL files to 3D print and construct a 1:16 scale, 3.5" gauge railway wagon.  The wagon is based on an 1830's dual hopper coal wagon and is designed to work with the Hornby Stephenson's Rocket live steam model.
